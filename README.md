@@ -1,3 +1,7 @@
 # Jurassic Ninja Site Generator
 
-Spin up WordPress test sites with Jurassic Ninja
+This extension makes it easier and faster to spin up WordPress test sites via Jurassic.Ninja.
+
+- One-click site creation.
+- URL copying and direct browser opening.
+- Quick selection of various WordPress plugin options, including Jetpack, Woo, Gutenberg, and more.
