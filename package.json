@@ -2,20 +2,22 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "jurassic-ninja-site-generator",
   "title": "Jurassic Ninja Site Generator",
-  "description": "Spin up WordPress test sites with Jurassic Ninja",
-  "icon": "extension-icon.png",
+  "description": "Launch WordPress test sites with Jurassic Ninja",
+  "icon": "jn-dark.png",
   "author": "keoshi",
   "owner": "keoshi-corp",
   "categories": [
-    "Web"
+    "Web",
+	"Developer Tools",
+	"Productivity"
   ],
   "license": "MIT",
   "commands": [
     {
       "name": "jurassic-ninja",
       "title": "Jurassic Ninja",
-      "subtitle": "Subtitle here",
-      "description": "Description here",
+      "subtitle": "WordPress Test Sites",
+      "description": "Launch WordPress test sites with Jurassic Ninja",
       "mode": "view"
     }
   ],
